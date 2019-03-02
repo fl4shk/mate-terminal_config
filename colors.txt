@@ -1,0 +1,35 @@
+Regular Use:
+	Dark Black:  #000000
+	Dark Red:  #CD0000
+	Dark Green:  #009E00
+	Dark Yellow:  #AFAF00
+	Dark Blue:  #0049B4
+	Dark Purple:  #CD00CD
+	Dark Cyan:  #008181
+	Dark White:  #E5E5E5
+	Light Black:  #4C4C4C
+	Light Red:  #FF0000
+	Light Green:  #00D400
+	Light Yellow:  #F0F000
+	Light Blue:  #006FDA
+	Light Purple:  #FF00FF
+	Light Cyan:  #00B6B6
+	Light White:  #FFFFFF
+
+Vim:
+	Dark Black:  #000000
+	Dark Red:  #C70000
+	Dark Green:  #007700
+	Dark Yellow:  #B4B400
+	Dark Blue:  #2828C8
+	Dark Purple:  #8822AA
+	Dark Cyan:  #008181
+	Dark White:  #E5E5E5
+	Light Black:  #4C4C4C
+	Light Red:  #C70000
+	Light Green:  #009900
+	Light Yellow:  #C7C700
+	Light Blue:  #0055CC
+	Light Purple:  #9922BD
+	Light Cyan:  #00BBBB
+	Light White:  #FFFFFF
